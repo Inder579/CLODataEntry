@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-26T18:45:13Z" name="Suite" finished-at="2021-05-26T18:46:11Z" duration-ms="58802">
+    <groups>
+    </groups>
+    <test started-at="2021-05-26T18:45:13Z" name="Test" finished-at="2021-05-26T18:46:11Z" duration-ms="58802">
+      <class name="automation.Fusion">
+        <test-method is-config="true" signature="Setup(org.testng.ITestContext)[pri:0, instance:automation.Fusion@57c758ac]" started-at="2021-05-26T14:45:12Z" name="Setup" finished-at="2021-05-26T14:45:13Z" duration-ms="176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@27976390]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="initialize1()[pri:0, instance:automation.Fusion@57c758ac]" started-at="2021-05-26T14:45:13Z" name="initialize1" finished-at="2021-05-26T14:45:15Z" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize1 -->
+        <test-method signature="m1()[pri:0, instance:automation.Fusion@57c758ac]" started-at="2021-05-26T14:45:15Z" name="m1" finished-at="2021-05-26T14:46:11Z" duration-ms="56449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:automation.Fusion@57c758ac]" started-at="2021-05-26T14:46:11Z" name="tearDown" finished-at="2021-05-26T14:46:11Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@27976390]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.Fusion -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
